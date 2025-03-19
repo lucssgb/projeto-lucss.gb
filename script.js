@@ -10,7 +10,7 @@ function toggleMode() {
 
     } else {
 
-        img.setAttribute('src' , './assents/azul.jpg')
+        img.setAttribute('src' , './assents/avatar.png')
 
     }
 
